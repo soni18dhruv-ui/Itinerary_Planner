@@ -1,0 +1,12 @@
+{
+  "name": "travel-itinerary-planner",
+  "private": true,
+  "scripts": {
+    "server": "python server/run.py",
+    "client": "npm --prefix client run dev",
+    "dev": "npm --prefix client run dev",
+    "build": "npm --prefix client run build",
+    "preview": "npm --prefix client run preview"
+  }
+}
+
