@@ -1,8 +1,23 @@
 # Daytrail — Intelligent AI Travel Itinerary Planner
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=soni18dhruv-ui/Itinerary_Planner&branch=main&mainModule=streamlit_app.py)
+
 **Daytrail** is a full-stack, AI-powered travel planner that drafts personalized, day-by-day travel itineraries based on how you actually travel. It accounts for your travel style, pacing directives (relaxed, moderate, fast), dietary accommodations, mobility needs, and budget constraints.
 
 ---
+
+## ⚡ Streamlit Cloud Quick Launch (1-Click Deployment)
+
+You can launch and deploy Daytrail immediately on **Streamlit Community Cloud**:
+
+👉 **[Deploy on Streamlit Community Cloud](https://share.streamlit.io/deploy?repository=soni18dhruv-ui/Itinerary_Planner&branch=main&mainModule=streamlit_app.py)**
+
+To run locally with Streamlit:
+```bash
+pip install -r requirements.txt
+streamlit run streamlit_app.py
+```
+
 
 ## 🌟 Key Features
 
